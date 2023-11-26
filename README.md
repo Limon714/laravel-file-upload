@@ -1,5 +1,13 @@
+## visit  Live Website
+
+```bash
+ https://limonislam.xyz/
+
+```
+
 ### Front-end
-First, run the development server:
+First, Start Apache & MySQL:
+
 ```bash
  http://localhost/portfolio-website/
 
@@ -20,7 +28,8 @@ First, run the development server:
 
 ## Create a Database 
 ```bash
-Personal Portfolio
+personal_portfolio
+# check .env.example
 ```
 ```bash
  http://localhost/portfolio-website/login
@@ -31,7 +40,7 @@ http://localhost/portfolio-website/admin/dashboard
 ![screencapture-localhost-portfolio-website-admin-dashboard-2023-11-26-23_38_20](https://github.com/Limon714/limonislam/assets/72975868/6968ed0e-6524-4f0b-9261-5b120b6d40a0)
 
 
-## Admin Home
+##  Home Admin
 ```bash
  http://localhost/portfolio-website/admin/home
 
