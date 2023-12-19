@@ -5,7 +5,7 @@
 
 ```
 
-### Front-end
+### Environment Setup
 First, Start Apache & MySQL:
 
 ```bash
